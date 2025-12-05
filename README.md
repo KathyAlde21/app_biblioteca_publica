@@ -110,23 +110,23 @@
            width="80%">
     </td>
     <td align="center">
-      <strong>Ingresando datos</strong><br>
+      <strong>Ingresando datos Autor: Gabriel</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_publica_2.jpg"
-           alt="Pantalla ingresando datos"
+           alt="Ingresando datos"
            width="80%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Mostrando tarea completa y tarea pendiente</strong><br>
+      <strong>Mostrando Gabriel García Márquez</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_publica_3.jpg"
-           alt="Vista con tarea completa y pendiente"
+           alt="Mostrando datos"
            width="80%">
     </td>
     <td align="center">
-      <strong>Mostrando dos tareas y tarea eliminada</strong><br>
+      <strong>Mostrando Don Quijote de la Mancha</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_publica_4.jpg"
-           alt="Vista con dos tareas y una eliminada"
+           alt="Mostrando datos"
            width="80%">
     </td>
   </tr>
@@ -143,35 +143,35 @@
            width="80%">
     </td>
     <td align="center">
-      <strong>Ingresando datos</strong><br>
+      <strong>Ingresando datos Autor: Gabriel</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_2.png"
-           alt="Pantalla ingresando datos"
+           alt="Ingresando datos"
            width="80%">
     </td>
     <td align="center">
-      <strong>Mostrando tarea completa y tarea pendiente</strong><br>
+      <strong>Mostrando Gabriel García Márquez</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_3.png"
-           alt="Vista con tarea completa y pendiente"
+           alt="Mostrando datos"
            width="80%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Mostrando dos tareas y tarea eliminada</strong><br>
+      <strong>Ingresando datos Libro: principito</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_4.png"
-           alt="Vista con dos tareas y una eliminada"
+            alt="Mostrando datos"
            width="80%">
     </td>
     <td align="center">
-      <strong>Mostrando tarea completa y tarea pendiente</strong><br>
+      <strong>Ingresando datos Libro: rayuela</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_5.png"
-           alt="Vista con tarea completa y pendiente"
+            alt="Mostrando datos"
            width="80%">
     </td>
     <td align="center">
-      <strong>Mostrando dos tareas y tarea eliminada</strong><br>
+      <strong>Ingresando datos Autor: cervantes</strong><br>
       <img src="./app/src/main/res/drawable/biblioteca_6.png"
-           alt="Vista con dos tareas y una eliminada"
+           alt="Mostrando datos"
            width="80%">
     </td>
   </tr>
