@@ -158,19 +158,19 @@
   <tr>
     <td align="center">
       <strong>Mostrando dos tareas y tarea eliminada</strong><br>
-      <img src="./app/src/main/res/drawable/biblioteca_4.jpg"
+      <img src="./app/src/main/res/drawable/biblioteca_4.png"
            alt="Vista con dos tareas y una eliminada"
            width="80%">
     </td>
     <td align="center">
       <strong>Mostrando tarea completa y tarea pendiente</strong><br>
-      <img src="./app/src/main/res/drawable/biblioteca_5.jpg"
+      <img src="./app/src/main/res/drawable/biblioteca_5.png"
            alt="Vista con tarea completa y pendiente"
            width="80%">
     </td>
     <td align="center">
       <strong>Mostrando dos tareas y tarea eliminada</strong><br>
-      <img src="./app/src/main/res/drawable/biblioteca_6.jpg"
+      <img src="./app/src/main/res/drawable/biblioteca_6.png"
            alt="Vista con dos tareas y una eliminada"
            width="80%">
     </td>
